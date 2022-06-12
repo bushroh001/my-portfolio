@@ -26,7 +26,7 @@ function About () {
                                           i am a front-end web developer with three years experience
                                          working with javascript and react-js.
                                        I love learning new things and working with new technologies, 
-                                       i enjoy developing modern websites and applications 
+                                       i enjoy developing modern websites and applications,
                                        i'll  give you the best of my service. 
                         </p>
                     </div>

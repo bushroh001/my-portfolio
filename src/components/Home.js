@@ -9,7 +9,7 @@ function Home ()
         <div name="home" className="w-full h-screen bg-[#0a192f]">
             {/* container */}
          <div className="max-w-[1000px] px-8 mx-auto flex flex-col justify-center w-full h-screen">
-             <p className="text-gray-600 text-4xl sm:text-4xl font-bold">Hi i am </p>
+             <p className="text-gray-600 text-4xl sm:text-4xl font-bold">Hi, i am </p>
              <h1 className="text-4xl sm:text-7xl font-bold text-gray-100">Bello Muhyideeen</h1>
              <h2 className="text-4xl sm:text-7xl font-bold text-gray-400">i'm a Front-end Developer</h2>
              <p className="text-gray-400 py-4 max-w-[600px] text-2xl ">specialized in developing modern front-end websites and applications. </p>
